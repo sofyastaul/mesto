@@ -1,3 +1,3 @@
 # Проектная работа Mesto
 
-студент, когорта, стэк
+[Сайт](https://sofyastaul.github.io/mesto/)
